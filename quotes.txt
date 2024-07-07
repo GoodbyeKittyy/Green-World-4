@@ -1598,3 +1598,4 @@ Quote on |Sun, 07 Jul 2024 19:56:35 GMT| :  People usually compare the computer 
 Quote on |Sun, 07 Jul 2024 20:19:27 GMT| :  I'd rather regret the things that I have done than the things that I have not done. - Lucille Ball
 Quote on |Sun, 07 Jul 2024 20:31:40 GMT| :  Programs must be written for people to read, and only incidentally for machines to execute. - Hal Abelson
 Quote on |Sun, 07 Jul 2024 20:43:47 GMT| :  A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. - George Bernard Shaw
+Quote on |Sun, 07 Jul 2024 20:55:36 GMT| :  It is on our failures that we base a new and different and better success. - Havelock Ellis
